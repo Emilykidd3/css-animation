@@ -34,3 +34,23 @@ body {
     background-color: var(--gray);
     border-radius: 1000px;
 }
+
+.cell.size-3 {
+    --size: 3;
+}
+
+.cell.size-4 {
+    --size: 4;
+}
+
+.cell.size-5 {
+    --size: 5;
+}
+
+.cell.size-6 {
+    --size: 6;
+}
+
+.cell.size-7 {
+    --size: 7;
+}
