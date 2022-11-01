@@ -35,6 +35,10 @@ body {
     border-radius: 1000px;
 }
 
+.cell.size-2 {
+    --size: 2;
+}
+
 .cell.size-3 {
     --size: 3;
 }
@@ -53,4 +57,16 @@ body {
 
 .cell.size-7 {
     --size: 7;
+}
+
+.cell.size-8 {
+    --size: 8;
+}
+
+.cell.size-9 {
+    --size: 9;
+}
+
+.cell.size-10 {
+    --size: 10;
 }
