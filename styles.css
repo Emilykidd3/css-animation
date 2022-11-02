@@ -25,6 +25,7 @@ body {
 .row {
     height: var(--unit);
     display: flex;
+    justify-content: center;
     gap: var(--unit);
 }
 
